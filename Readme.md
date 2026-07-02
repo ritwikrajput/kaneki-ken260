@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ```text
 Languages:      Java · Python · C++ · JavaScript
@@ -39,7 +39,7 @@ Learning:       AWS · Kubernetes · Terraform
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [GitShield](https://github.com/YOUR_USERNAME/GitShield) — GitHub Vulnerability Scanner
 
@@ -67,7 +67,7 @@ NLP processing pipeline → code AST generation → React component output
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### ArmorCode — Software Developer *(Jan 2024 – Present)*
 
@@ -79,7 +79,7 @@ NLP processing pipeline → code AST generation → React component output
 
 ---
 
-## 🏆 Competitive Programming
+## Competitive Programming
 
 | Platform | Rating | Highlight |
 |---|---|---|
@@ -89,7 +89,7 @@ NLP processing pipeline → code AST generation → React component output
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Ritwik-Rajput/">LinkedIn</a> ·
