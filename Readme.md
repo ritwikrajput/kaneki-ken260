@@ -51,13 +51,13 @@ Architecture: React → Spring Boot API → Kafka → Elasticsearch + MySQL + Ji
 
 ---
 
-### Razorpay Clone *(In Progress)*
+### ZapPay *(In Progress)*
 
-Payment gateway clone built to explore real-world concurrency problems — distributed locking, idempotent transactions, race condition handling under high load. Designed for thousands of concurrent payment sessions.
+A payment gateway built to explore real-world concurrency problems — distributed locking, idempotent transactions, race condition handling under high load. Designed for thousands of concurrent payment sessions.
 
 ---
 
-### Loveable Clone *(Coming Soon)*
+### ForgeUI *(Coming Soon)*
 
 AI tool that takes natural language descriptions and generates production-ready frontend components.
 
