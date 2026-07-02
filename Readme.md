@@ -17,7 +17,7 @@
 
 ---
 
-## 🔧 Currently Working On
+## Currently Working On
 
 - Designing ingestion pipelines that normalize vulnerability data across **50+ scanner integrations**
 - Optimizing Elasticsearch clusters for real-time search across millions of security findings
